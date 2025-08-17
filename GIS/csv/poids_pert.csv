@@ -1,0 +1,8 @@
+critere,min,mode,max
+score_dens,0.15,0.25,0.35
+Distance T,0.15,0.25,0.35
+score_pent,0.05,0.1,0.2
+nb_poi_sco,0.2,0.3,0.4
+score_bus_score_bus,0.15,0.25,0.35
+score_tram,0.05,0.15,0.25
+score_imat_score_imat, 0.2,0.3,0.4
